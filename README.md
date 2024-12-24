@@ -25,3 +25,6 @@ To get started with this project, follow these steps:
 3.Execute the SQL scripts provided in the database directory to set up the database schema and initial data.
 
 4.Compile and Run: Compile the Java files and run the main application to start using the Hospital Management System.
+![Console_Screen](https://github.com/user-attachments/assets/ed93eda8-7751-4d62-9857-b71288303c6c)
+![Database_PostgreSQL](https://github.com/user-attachments/assets/23d486c0-88d3-418e-84c1-a2428d5ae6dc)
+![Data](https://github.com/user-attachments/assets/9b0a8804-d958-4f37-b5c9-ea7959e4ae7f)
